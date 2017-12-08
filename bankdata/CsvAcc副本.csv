@@ -1,0 +1,6 @@
+accNo,PIN,balance,odl,isSus,isAct,noticeN,accTyp,ID
+100001,0,1000.0,1000.0,false,true,false,1,101
+100002,0,10700.0,100.0,false,true,false,1,101
+100003,0,4100.0,0.0,false,true,false,2,101
+100004,0,1000.0,0.0,true,true,false,3,102
+100005,1234,0.0,0.0,false,true,false,1,101
